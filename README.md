@@ -5,4 +5,4 @@ Test the usage of git and github
 
 [todo1] add a line of anything below
 
-[info2] this is pjh
+[info2] liushu adds a conflict here
