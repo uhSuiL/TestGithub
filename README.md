@@ -8,3 +8,4 @@ Test the usage of git and github
 [info2] liushu adds another conflict
 
 [info3.1] liushu's new branch `test1`
+lalalalala
